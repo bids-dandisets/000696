@@ -1,0 +1,17 @@
+{
+    "Name": "The organization of context versus content coding in the hippocampus and neocortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "High-density silicon probe recordings from primary somatosensory cortex, posterior parietal cortex, and dorsal hippocampus (CA1) in head-fixed mice while running on a treadmill virtual reality task with different tactile cues.",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
