@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "High-density silicon probe recordings from primary somatosensory cortex, posterior parietal cortex, and dorsal hippocampus (CA1) in head-fixed mice while running on a treadmill virtual reality task with different tactile cues.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Ning, Wing"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
